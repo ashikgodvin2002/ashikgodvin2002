@@ -1,0 +1,46 @@
+body{
+	background: black;
+	color: white;
+	font-family: sans-serif;
+}
+h1{
+	margin-top: 100px;
+	text-align: center;
+}
+.but{
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 20px;
+}
+.find{
+		margin-right: 40px;
+		background-color: goldenrod;
+		padding: 15px 32px;
+		color: white;
+		font-family: sans-serif;
+		cursor: pointer;
+
+
+}
+.reset1{
+		
+		background-color: red;
+		padding: 15px 32px;
+		color: white;
+		font-family: sans-serif;
+		cursor: pointer;
+}
+#buts123{
+	background-color: black;
+	border :1px  solid white;
+	
+}
+p{
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+	padding: 20px;
+
+
+
+}
